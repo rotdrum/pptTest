@@ -10,7 +10,7 @@ This project is a web application designed to manage user registrations and posi
 - **Search and Sort:** Filter and sort user registrations based on different criteria.
 - **Pagination:** Navigate through user registrations with pagination.
 
-## ข้อมูลแบบนี้ equirement ดังนี้
+## Equirement List
 
 - **User** สามารถลงชื่อตนเองในการเขา้งานได้ หากยังมีที่นั่งคงเหลือ โดยระบุ ชื่อนามสกลุล และเบอร์โทร
 - **User** สามารถเห็นชื่อ บุคคลที่เคยลงทะเบียนได้ในรูปแบบตารางและสามารถ sort และ search ได้
