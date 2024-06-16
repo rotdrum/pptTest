@@ -10,6 +10,17 @@ This project is a web application designed to manage user registrations and posi
 - **Search and Sort:** Filter and sort user registrations based on different criteria.
 - **Pagination:** Navigate through user registrations with pagination.
 
+## ข้อมูลแบบนี้ equirement ดังนี้
+
+- **User** สามารถลงชื่อตนเองในการเขา้งานได้ หากยังมีที่นั่งคงเหลือ โดยระบุ ชื่อนามสกลุล และเบอร์โทร
+- **User** สามารถเห็นชื่อ บุคคลที่เคยลงทะเบียนได้ในรูปแบบตารางและสามารถ sort และ search ได้
+- **User** เห็นจำนวนคงเหลือได้
+- **User** เห็นจำนวนคนที่ลงทะเบียนทั้งหมดได้
+- **Admin** สามารถดูข้อมูล คนที่ลงทะเบียน โดยข้อมูลที่แสดงคือ ชื่อ นามสกุล และเบอร์โทร ในรูปแบบตารางและ สามารถ sort และ search ได้
+- **Admin** กำหนดที่นั่ง ของคนที่จะเข้ามาลงทะเบียนได้
+- **Admin** เห็นจำนวนที่นั่ง คงเหลือ ได้
+- **Admin** เห็นจำนวนคนที่ลงทะเบียนทั้งหมดได้
+
 ## Technologies Used
 
 ### Frontend
@@ -41,4 +52,4 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your_username/your_project.git
+   git clone https://github.com/rotdrum/pptTest.git
